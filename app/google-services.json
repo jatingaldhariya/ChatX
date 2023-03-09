@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "50958984817",
+    "firebase_url": "https://chatx-00-default-rtdb.firebaseio.com",
+    "project_id": "chatx-00",
+    "storage_bucket": "chatx-00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50958984817:android:efa49a8ae48b853da9ddd0",
+        "android_client_info": {
+          "package_name": "com.example.chatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50958984817-c3h9pbi70k5e53s88jbf5j1bo6vlkj2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatx",
+            "certificate_hash": "c9c97846588ab04366d2bc73459894f79b8a8b03"
+          }
+        },
+        {
+          "client_id": "50958984817-0tsibv5lmtsb0ngqfjr0b4ja6n5g9e6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9v1I_9z6LkkocWKFbvBOA0oafuVRiliw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50958984817-0tsibv5lmtsb0ngqfjr0b4ja6n5g9e6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

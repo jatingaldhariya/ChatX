@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ChatX</string>
+    <string name="name_logo">Name Logo</string>
+    <string name="icon_logo">IconLogo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="user_full_name">Full Name</string>
+    <string name="samplename">Jatin</string>
+    <string name="logout">Logout</string>
+    <string name="type_message">Type Message..</string>
+    <string name="sendicon">SendIcon</string>
+    <string name="this_is_sent_message">This Is Sent Message</string>
+    <string name="this_is_receivemessage">This Is Recivemessage</string>
+    <string name="password_must_be_graterthan_six_characters">Password Must Be Graterthan Six Characters</string>
+</resources>
